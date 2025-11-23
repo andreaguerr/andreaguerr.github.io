@@ -4,6 +4,8 @@ author: "Andrea Guerrieri"
 
 theme: jekyll-theme-minimal
 
+logo: /assets/images/foto_city.jpeg
+
 # Where the site actually lives
 url: "https://andreaguerr.github.io"
 baseurl: ""   # keep empty for a user site like username.github.io
@@ -28,5 +30,3 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
-
-logo: /assets/images/foto_city.jpeg
