@@ -46,7 +46,7 @@ A (very incomplete) list of directions I find exciting:
 
 - Non-perturbative bounds on total cross sections for fermions  
 - Predict more exotic states  
-- Constraints on higher-derivative corrections \(D^4 R^4, D^6 R^4,...\) from unitarity  
+- Constraints on higher-derivative corrections $D^4 R^4, D^6 R^4,\dots$ from unitarity  
 
 See: 👉 [Open Questions](open-questions.md)
 
