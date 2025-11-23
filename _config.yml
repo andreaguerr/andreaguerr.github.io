@@ -1,2 +1,31 @@
-theme: jekyll-theme-minimal
 title: "Andrea Guerrieri"
+description: "Theoretical physicist – quantum field theory, scattering amplitudes, S-matrix Bootstrap."
+author: "Andrea Guerrieri"
+
+theme: jekyll-theme-minimal
+
+# Where the site actually lives
+url: "https://andreaguerr.github.io"
+baseurl: ""   # keep empty for a user site like username.github.io
+
+# Markdown & math configuration
+markdown: kramdown
+kramdown:
+  input: GFM            # GitHub-Flavored Markdown (tables, fenced code blocks, etc.)
+  math_engine: mathjax  # enable MathJax processing
+  parse_block_html: true
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+highlighter: rouge
+
+# Optional metadata GitHub can use in places
+github_username: andreaguerr
+
+# Files that should not be part of the generated site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
