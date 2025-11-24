@@ -16,6 +16,14 @@ Slides and videos are linked when available.
 
 # Talks
 
+## 2025
+
+**Maximizing the interaction strength**
+*Conference talk, Bootstrap 2025*
+[Video](https://www.youtube.com/watch?v=gda049SQAho&t=9906s)
+
+---
+
 ## 2022
 
 **S-matrix Bootstrap for EFTs**  
@@ -27,8 +35,19 @@ Slides and videos are linked when available.
 ## 2021
 
 **Where is String Theory?**  
-*Seminar, Rencontres, 18 March 2021*  
+
+*Seminar, Leinweber Institute for Theoretical Physics, 29 March 2021*
+[Video](https://www.youtube.com/watch?v=SSshuDfjVK0&t=4s)
+
+*Seminar, Rencontres, 18 March 2021*
 [Video](https://www.youtube.com/watch?v=suj0wxSsNtk&t=1s)
+
+---
+
+## 2020
+**Exploring the Dual S-matrix Bootstrap**
+*Bootstrap Zoom seminar series, 2020*
+[Video](https://www.youtube.com/watch?v=gQfLfMcQjCA&t=1s)
 
 ---
 
