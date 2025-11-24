@@ -19,7 +19,7 @@ Slides and videos are linked when available.
 ## 2025
 
 **Maximizing the Interaction Strength**  
-*Conference talk, Bootstrap 2025*  
+*Bootstrap 2025*  
 [Video](https://www.youtube.com/watch?v=gda049SQAho&t=9906s)
 
 **Scattering Amplitudes & Bootstrap Constraints**  
@@ -30,17 +30,17 @@ Slides and videos are linked when available.
 
 ## 2022
 
+**Bridging Positivity with the S-matrix Bootstrap**  
+*Seminar, Centro de Fisica do Porto, 28 October 2022*  
+[Video](https://www.youtube.com/watch?v=LarkyL8Ml18)  
+
 **S-matrix Bootstrap for EFTs**  
-*Conference talk, Bootstrap 2022*  
-[Video](https://www.youtube.com/watch?v=Dyhpei4Qz40&t=2641s)
+*Bootstrap 2022*  
+[Video](https://www.youtube.com/watch?v=Dyhpei4Qz40&t=2641s)  
 
 ---
 
 ## 2021
-
-**Bridging Positivity with the S-matrix Bootstrap**  
-*Seminar, Porto*  
-[Video](https://www.youtube.com/watch?v=LarkyL8Ml18)
 
 **Where is String Theory?**  
 *Seminar, Leinweber Institute for Theoretical Physics, 29 March 2021*  
@@ -62,33 +62,39 @@ Slides and videos are linked when available.
 
 # Lectures
 
-## 2022
+## 2025 — LonTI Lecture Series — Exploring the IR and UV Regimes of QCD
 
-**Exploring the IR and UV Regimes of QCD**  
-*Lecture, LonTI 2022*  
-[Video](https://www.youtube.com/watch?v=ClvLQ8RSKg8&t=1s)
+**LonTI Lecture 1**  
+External field methods, Goldostone bosons (Weinberg Vol. 2, Chapter 16, 19)  
+[Video](https://www.youtube.com/watch?v=ClvLQ8RSKg8)  
 
----
-
-## 2021 — Bootstrap School Lecture Series
-
-**Numerical S-matrix Bootstrap — Lecture 1**  
-*Bootstrap School 2021*  
-[Video](https://www.youtube.com/watch?v=LyqSfjBCFTY&t=3965s)
-
-**Numerical S-matrix Bootstrap — Lecture 2**  
-*Bootstrap School 2021*  
-[Video](https://www.youtube.com/watch?v=iXfoOtsM_b0&t=3s)
-
----
-
-## 2021 — LonTI Lecture Series
+**LonTI Lecture 2**  
+EFT, pions, nonlinearly realized symmetries  
+[Video](https://www.youtube.com/watch?v=NTVuanX2ljM&t=1s)
 
 **LonTI Lecture 3**  
+Operator Produce Expansion  
 [Video](https://www.youtube.com/watch?v=tdKnXcnUw54)
 
 **LonTI Lecture 4**  
+Bootstrap  
 [Video](https://www.youtube.com/watch?v=9LwkqkAfPfw&t=1s)
+
+---
+
+## Bootstrap School 2021 — Numerical S-matrix Bootstrap
+
+**Lecture 1**  
+Numerical S-matrix Bootstrap  
+[Video](https://www.youtube.com/watch?v=LyqSfjBCFTY&t=3965s)
+
+**Lecture 2**  
+Numerical S-matrix Bootstrap (3+1 dimensions)  
+[Video](https://www.youtube.com/watch?v=iXfoOtsM_b0&t=3s)  
+
+**Lecture 3**  
+Numerical S-matrix Bootstrap dual problems  
+[Video](https://www.youtube.com/watch?v=Q2EK5s6D0V8&t=1s)  
 
 ---
 
