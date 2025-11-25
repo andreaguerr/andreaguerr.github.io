@@ -20,7 +20,8 @@ window.MathJax = {
 # Andrea Guerrieri
 Lecturer & Royal Society University Research Fellow  
 **City St George's, University of London**
-[university webpage](https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri)
+[university webpage](https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri)  
+*Quantum fields and strings, scattering amplitudes, S-matrix Bootstrap, non-perturbative physics.*
 
 <div style="
   padding: 12px 16px;
@@ -34,20 +35,18 @@ Lecturer & Royal Society University Research Fellow
 <p>
 <b>Applications are now open for the 2026 Aspen Summer Program</b><br>
 <i>From First Principles to Future Colliders: Amplitudes, Bootstraps & Energy Correlators</i><br>
-👉 <a href="[https://www.aspenphys.org](https://aspenphys.org/summer-workshops/)">Apply here</a><br>
+👉 <a href="https://aspenphys.org/summer-workshops/">Apply here</a><br>
 <small>(Co-organized with N. Arkani-Hamed, C. Cesarotti, and I. Moult.)</small>
 </p>
 
 <p>
-<b>Bootstrap 2026 (London)</b><br>
-Registration will open soon.  
-👉 <i>More information coming shortly.</i>
+<b>Bootstrap 2026 in London</b><br>
+<i>Registration opened!</i><br>
+👉 <a href="https://indico.global/event/16114/overview">Apply here</a><br>
+  <small>(Co-organized with S. Chester, P. Kravchuk, and A. Stergiou.)</small>
 </p>
 
 </div>
-
-
-*Quantum fields and strings, scattering amplitudes, S-matrix Bootstrap, non-perturbative physics.*
 
 ---
 
