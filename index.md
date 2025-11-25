@@ -22,6 +22,31 @@ Lecturer & Royal Society University Research Fellow
 **City St George's, University of London**
 [university webpage](https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri)
 
+<div style="
+  padding: 12px 16px;
+  border-left: 4px solid #007acc;
+  background: #f2f7ff;
+  margin: 20px 0;
+">
+
+<h3 style="margin-top:0;">📢 Announcements</h3>
+
+<p>
+<b>Applications are now open for the 2026 Aspen Summer Program</b><br>
+<i>From First Principles to Future Colliders: Amplitudes, Bootstraps & Energy Correlators</i><br>
+👉 <a href="https://www.aspenphys.org">Apply here</a><br>
+<small>(Co-organized with N. Arkani-Hamed, C. Cesarotti, and I. Moult.)</small>
+</p>
+
+<p>
+<b>Bootstrap 2026 (London)</b><br>
+Registration will open soon.  
+👉 <i>More information coming shortly.</i>
+</p>
+
+</div>
+
+
 *Quantum fields and strings, scattering amplitudes, S-matrix Bootstrap, non-perturbative physics.*
 
 ---
@@ -47,6 +72,11 @@ See the dedicated page:
 
 ---
 
+## Events & Programs
+👉 [Events & Programs](events.md)
+
+---
+
 ## Teaching
 
 At City St George's, University of London:
@@ -57,10 +87,11 @@ At City St George's, University of London:
 
 ## Open Questions & Notes
 
-A (very incomplete) list of directions I find exciting:
+A (very incomplete) list of directions I find exciting today:
 
+- 
 - Non-perturbative bounds on total cross sections for fermions  
-- Predict more exotic states  
+- Bootstrap Quantum Mechanics  
 - Constraints on higher-derivative corrections $D^4 R^4, D^6 R^4,\dots$ from unitarity  
 
 See: 👉 [Open Questions](open-questions.md)
