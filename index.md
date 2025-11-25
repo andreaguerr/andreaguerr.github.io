@@ -88,10 +88,10 @@ At City St George's, University of London:
 
 A (very incomplete) list of directions I find exciting today:
 
-- 
+- Bootstrap applications to QCD
 - Non-perturbative bounds on total cross sections for fermions  
-- Bootstrap Quantum Mechanics  
-- Constraints on higher-derivative corrections $D^4 R^4, D^6 R^4,\dots$ from unitarity  
+- Bootstrap Quantum Mechanics and Matrix Models 
+- Constraints on higher-derivative corrections to supergravity $D^4 R^4, D^6 R^4,\dots$ from unitarity  
 
 See: 👉 [Open Questions](open-questions.md)
 
