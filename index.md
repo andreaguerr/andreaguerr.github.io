@@ -1,5 +1,5 @@
 ---
-title: Andrea Guerrieri
+title: "Andrea Guerrieri – Theoretical Physicist"
 ---
 
 <script>
@@ -17,7 +17,6 @@ window.MathJax = {
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-# Andrea Guerrieri
 Lecturer & Royal Society University Research Fellow  
 **City St George's, University of London**  
 [university webpage](https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri)  
