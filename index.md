@@ -1,5 +1,5 @@
 ---
-title: "Andrea Guerrieri – Theoretical Physicist"
+title: "Andrea Guerrieri - Theoretical Physicist"
 ---
 
 <script>
