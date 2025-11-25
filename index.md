@@ -34,7 +34,7 @@ Lecturer & Royal Society University Research Fellow
 <p>
 <b>Applications are now open for the 2026 Aspen Summer Program</b><br>
 <i>From First Principles to Future Colliders: Amplitudes, Bootstraps & Energy Correlators</i><br>
-👉 <a href="https://www.aspenphys.org">Apply here</a><br>
+👉 <a href="[https://www.aspenphys.org](https://aspenphys.org/summer-workshops/)">Apply here</a><br>
 <small>(Co-organized with N. Arkani-Hamed, C. Cesarotti, and I. Moult.)</small>
 </p>
 
