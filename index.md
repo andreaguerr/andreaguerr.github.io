@@ -19,7 +19,7 @@ window.MathJax = {
 
 # Andrea Guerrieri
 Lecturer & Royal Society University Research Fellow  
-**City St George's, University of London**
+**City St George's, University of London**  
 [university webpage](https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri)  
 *Quantum fields and strings, scattering amplitudes, S-matrix Bootstrap, non-perturbative physics.*
 
