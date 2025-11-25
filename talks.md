@@ -73,7 +73,7 @@ EFT, pions, nonlinearly realized symmetries
 [Video](https://www.youtube.com/watch?v=NTVuanX2ljM&t=1s)
 
 **LonTI Lecture 3**  
-Operator Produce Expansion  
+Operator Product Expansion  
 [Video](https://www.youtube.com/watch?v=tdKnXcnUw54)
 
 **LonTI Lecture 4**  
