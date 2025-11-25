@@ -1,40 +1,21 @@
-title: "Andrea Guerrieri - Theoretical Physicist"
-description: "Royal Society University Research Fellow at City St George's, University of London. Research in scattering amplitudes, S-matrix bootstrap, quantum field theory, collider physics, and non-perturbative methods."
+title: "Andrea Guerrieri – Theoretical Physicist"
+description: "Royal Society University Research Fellow at City, University of London. Research in scattering amplitudes, S-matrix bootstrap, quantum field theory, collider physics, and non-perturbative methods."
 author: "Andrea Guerrieri"
 
-# Language for SEO
 lang: en
 
-# Theme
 theme: jekyll-theme-minimal
 
-# Logo used by jekyll-seo-tag for social previews
 logo: /assets/images/foto_city.jpeg
 
 # Where the site actually lives
 url: "https://andreaguerr.github.io"
 baseurl: ""   # keep empty for a user site like username.github.io
 
-# Social profiles (used by jekyll-seo-tag for JSON-LD & OpenGraph)
-social:
-  name: "Andrea Guerrieri"
-  links:
-    - "https://andreaguerr.github.io"
-    - "https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri"
-    - "https://inspirehep.net/authors/1275267"
-    - "https://scholar.google.com/citations?user=f8-gtH0AAAAJ"
-    # add LinkedIn / X if you want:
-     - "https://www.linkedin.com/in/andrea-guerrieri-03a1678a/"
-    # - "https://x.com/..."
-
-# Optional Twitter handle (if you use X/Twitter)
-# twitter:
-#   username: your_handle_without_@
-
 # Markdown & math configuration
 markdown: kramdown
 kramdown:
-  input: GFM            # GitHub-Flavored Markdown
+  input: GFM            # GitHub-Flavored Markdown (tables, fenced code blocks, etc.)
   math_engine: mathjax  # enable MathJax processing
   parse_block_html: true
   hard_wrap: false
