@@ -4,6 +4,16 @@ author: "Andrea Guerrieri"
 
 lang: en
 
+social:
+  name: "Andrea Guerrieri"
+  links:
+    - "https://andreaguerr.github.io"
+    - "https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri"
+    - "https://inspirehep.net/authors/1275267"
+    - "https://scholar.google.com/citations?user=f8-gtH0AAAAJ"
+    - "https://www.linkedin.com/in/andrea-guerrieri-03a1678a"
+
+
 theme: jekyll-theme-minimal
 
 logo: /assets/images/foto_city.jpeg
