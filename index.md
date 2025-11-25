@@ -21,6 +21,8 @@ window.MathJax = {
 Lecturer & Royal Society University Research Fellow  
 **City St George's, University of London**  
 [university webpage](https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri)  
+## About  
+I am a theoretical physicist working at the interface of scattering amplitudes, the S-matrix bootstrap, and non-perturbative quantum field theory methods. My research combines first-principles constraints with modern optimization techniques to explore strongly interacting systems, collider observables, and quantum gravity.  
 *Quantum fields and strings, scattering amplitudes, S-matrix Bootstrap, non-perturbative physics.*
 
 <div style="
@@ -52,7 +54,7 @@ Lecturer & Royal Society University Research Fellow
 
 ## Research
 
-My work lies at the interface of scattering amplitudes, optimization, phenomenology, and non-perturbative methods for strongly interacting systems.
+My work is the expression of my mixed interest in particle physics phenomenology, mathematics, and numerical methods for strongly interacting systems. Here is a short list of topics I have covered in my latest works.
 
 - S-matrix Bootstrap and non-perturbative constraints on QFT observables  
 - Applications to QCD, hadron spectroscopy, and collider physics  
