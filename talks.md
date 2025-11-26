@@ -18,6 +18,10 @@ Slides and videos are linked when available.
 
 ## 2025
 
+**Quantum Gravity S-matrix Bootstrap**  
+*Quantum Gravity Seminar, Niels Bohr Institute, 26/11/25*  
+[Ipad slides]
+
 **Maximizing the Interaction Strength**  
 *Bootstrap 2025*  
 [Video](https://www.youtube.com/watch?v=gda049SQAho&t=9906s)
