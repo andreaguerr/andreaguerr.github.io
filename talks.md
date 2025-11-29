@@ -22,6 +22,10 @@ Slides and videos are linked when available.
 *Quantum Gravity Seminar, Niels Bohr Institute, 26/11/25*  
 [📝 Notes (preliminary)](talks/Review_Talk_Copenhagen.pdf)
 
+**When you eliminate the Impossible, whatever remains, however improbable, is the truth**  
+*Colloquium Humboldt Univeristy 21/11/25*  
+[Slides](talks/Humboldt_Colloquium_2025.pdf)  
+
 **Maximizing the Interaction Strength**  
 *Bootstrap 2025*  
 [Video](https://www.youtube.com/watch?v=gda049SQAho&t=9906s)
