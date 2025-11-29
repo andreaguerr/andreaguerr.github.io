@@ -22,7 +22,7 @@ Slides and videos are linked when available.
 *Quantum Gravity Seminar, Niels Bohr Institute, 26/11/25*  
 [📝 Notes (preliminary)](talks/Review_Talk_Copenhagen.pdf)
 
-**When you eliminate the Impossible, whatever remains, however improbable, is the truth**  
+**Eliminating the impossible to find the truth**  
 *Colloquium Humboldt Univeristy 21/11/25*  
 [Slides](talks/Humboldt_Colloquium_2025.pdf)  
 
@@ -86,7 +86,9 @@ Operator Product Expansion
 
 **LonTI Lecture 4**  
 Bootstrap  
-[Video](https://www.youtube.com/watch?v=9LwkqkAfPfw&t=1s)
+[Video](https://www.youtube.com/watch?v=9LwkqkAfPfw&t=1s)  
+
+Click [here](https://lonti.weebly.com/) to see the full list of LonTI Lecture Series.
 
 ---
 
