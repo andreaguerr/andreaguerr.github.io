@@ -73,7 +73,7 @@ Slides and videos are linked when available.
 ## 2025 — LonTI Lecture Series — Exploring the IR and UV Regimes of QCD
 
 **LonTI Lecture 1**  
-External field methods, Goldostone bosons (Weinberg Vol. 2, Chapter 16, 19)  
+External field methods, Goldstone bosons (Weinberg Vol. 2, Chapter 16, 19)  
 [Video](https://www.youtube.com/watch?v=ClvLQ8RSKg8)  
 
 **LonTI Lecture 2**  
