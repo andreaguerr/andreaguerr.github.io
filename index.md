@@ -25,6 +25,22 @@ Lecturer & Royal Society University Research Fellow
 I am a theoretical physicist working at the interface of scattering amplitudes, the S-matrix bootstrap, and non-perturbative quantum field theory methods. My research combines first-principles constraints with modern optimization techniques to explore strongly interacting systems, collider observables, and quantum gravity.  
 *Quantum fields and strings, scattering amplitudes, S-matrix Bootstrap, non-perturbative physics.*
 
+<p style="margin-top: 10px;">
+  <a href="/cv/cv_andrea_2025.pdf" 
+     style="
+       display:inline-block;
+       background-color:#1a73e8;
+       color:white;
+       padding:8px 16px;
+       border-radius:6px;
+       text-decoration:none;
+       font-weight:600;
+     ">
+    📄 Download CV (PDF)
+  </a>
+</p>
+
+
 <div style="
   padding: 12px 16px;
   border-left: 4px solid #007acc;
