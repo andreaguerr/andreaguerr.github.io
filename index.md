@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Andrea Guerrieri – Theoretical Physicist"
 ---
 
