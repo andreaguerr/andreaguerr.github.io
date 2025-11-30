@@ -65,6 +65,12 @@ See also: [Curriculum Vitae](cv.md)
   <small>(Co-organized with S. Chester, P. Kravchuk, and A. Stergiou.)</small>
 </p>
 
+<p>
+<b>Postdoc position in S-matrix Bootstrap</b><br>
+<i>Deadline December 17</i><br>
+👉 <a href="https://inspirehep.net/jobs/3085860">More details here</a><br>
+</p>
+
 </div>
 
 ---
