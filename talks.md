@@ -20,11 +20,11 @@ Slides and videos are linked when available.
 
 **Quantum Gravity S-matrix Bootstrap**  
 *Quantum Gravity Seminar, Niels Bohr Institute, 26/11/25*  
-[📝 Notes (preliminary)](talks/Review_Talk_Copenhagen.pdf)
+[📝 Notes (preliminary)](https://raw.githubusercontent.com/andreaguerr/andreaguerr.github.io/main/talks/Review_Talk_Copenhagen.pdf)
 
 **Eliminating the impossible to find the truth**  
-*Colloquium Humboldt Univeristy 21/11/25*  
-[Slides](talks/Humboldt_Colloquium_2025.pdf)  
+*Colloquium Humboldt University 21/11/25*  
+[Slides](https://raw.githubusercontent.com/andreaguerr/andreaguerr.github.io/main/talks/Humboldt_Colloquium_2025.pdf)
 
 **Maximizing the Interaction Strength**  
 *Bootstrap 2025*  
