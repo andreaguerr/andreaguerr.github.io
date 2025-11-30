@@ -26,7 +26,7 @@ A 3-week Aspen summer program bringing together researchers in amplitudes, the S
 *Co-Organizer*  
 **City St George's University of London, Imperial College, King's College**, 3 – 14 August 2026.    
 [Conference indico webpage](https://indico.global/event/16114/overview).  
-2-week conference in the hearth of London gathering top researchers in non-perturbative Bootstrap techniques with emphasis on Conformal Field Theories, Holography, S-matrix, and Matrix Models. The first major meeting following the Simons Collaboration on the Nonperturbative Bootstrap.
+2-week conference in the heart of London gathering top researchers in non-perturbative Bootstrap techniques with emphasis on Conformal Field Theories, Holography, S-matrix, and Matrix Models. The first major meeting following the Simons Collaboration on the Nonperturbative Bootstrap.
 
 ---
 
