@@ -40,6 +40,7 @@ I am a theoretical physicist working at the interface of scattering amplitudes, 
   </a>
 </p>
 
+See also: [Curriculum Vitae](cv.md)
 
 <div style="
   padding: 12px 16px;
