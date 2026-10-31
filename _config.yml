@@ -1,5 +1,5 @@
 title: "Andrea Guerrieri – Theoretical Physicist"
-description: "Royal Society University Research Fellow at City, University of London. Research in scattering amplitudes, S-matrix bootstrap, quantum field theory, collider physics, and non-perturbative methods."
+description: "Lecturer and Royal Society University Research Fellow at City St George's, University of London. Research in S-matrix bootstrap, QCD, scattering amplitudes, and quantum gravity."
 author: "Andrea Guerrieri"
 
 lang: en
@@ -12,6 +12,7 @@ social:
     - "https://inspirehep.net/authors/1275267"
     - "https://scholar.google.com/citations?user=f8-gtH0AAAAJ"
     - "https://www.linkedin.com/in/andrea-guerrieri-03a1678a"
+    - "https://x.com/GuerrieriPhys"
 
 
 theme: jekyll-theme-minimal
