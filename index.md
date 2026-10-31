@@ -1,7 +1,6 @@
 ---
-title: "Andrea Guerrieri – Theoretical Physicist"
+title: "Andrea Guerrieri | Theoretical Physicist"
 ---
-
 
 <script>
 window.MathJax = {
@@ -18,113 +17,49 @@ window.MathJax = {
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-Lecturer & Royal Society University Research Fellow  
-**City St George's, University of London**  
-[university webpage](https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri)  
-## About  
-I am a theoretical physicist working at the interface of scattering amplitudes, the S-matrix bootstrap, and non-perturbative quantum field theory methods. My research combines first-principles constraints with modern optimization techniques to explore strongly interacting systems, collider observables, and quantum gravity.  
-*Quantum fields and strings, scattering amplitudes, S-matrix Bootstrap, non-perturbative physics.*
+# Andrea Guerrieri
 
-<p style="margin-top: 10px;">
-  <a href="/cv/cv_andrea_2025.pdf" 
-     style="
-       display:inline-block;
-       background-color:#1a73e8;
-       color:white;
-       padding:8px 16px;
-       border-radius:6px;
-       text-decoration:none;
-       font-weight:600;
-     ">
-    📄 Download CV (PDF)
-  </a>
-</p>
+**Lecturer and Royal Society University Research Fellow**  
+Department of Mathematics, City St George's, University of London
 
-See also: [Curriculum Vitae](cv.md)
+I am a theoretical physicist studying how general principles such as **unitarity, analyticity and crossing symmetry** constrain quantum field theories and gravitational scattering. My research focuses on the **S-matrix bootstrap**, strong interactions and hadron physics, and quantum gravity.
 
-<div style="
-  padding: 12px 16px;
-  border-left: 4px solid #007acc;
-  background: #f2f7ff;
-  margin: 20px 0;
-">
+[University profile](https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri) · [INSPIRE](https://inspirehep.net/authors/1275267) · [Google Scholar](https://scholar.google.com/citations?user=f8-gtH0AAAAJ) · [X / @GuerrieriPhys](https://x.com/GuerrieriPhys)
 
-<h3 style="margin-top:0;">📢 Announcements</h3>
-
-<p>
-<b>Applications are now open for the 2026 Aspen Summer Program</b><br>
-<i>From First Principles to Future Colliders: Amplitudes, Bootstraps & Energy Correlators</i><br>
-👉 <a href="https://aspenphys.org/summer-workshops/">Apply here</a><br>
-<small>(Co-organized with N. Arkani-Hamed, C. Cesarotti, and I. Moult.)</small>
-</p>
-
-<p>
-<b>Bootstrap 2026 in London</b><br>
-<i>Registration opened!</i><br>
-👉 <a href="https://indico.global/event/16114/overview">Apply here</a><br>
-  <small>(Co-organized with S. Chester, P. Kravchuk, and A. Stergiou.)</small>
-</p>
-
-<p>
-<b>Postdoc position in S-matrix Bootstrap</b><br>
-<i>Deadline December 17</i><br>
-👉 <a href="https://inspirehep.net/jobs/3085860">More details here</a><br>
-</p>
-
-</div>
+[Curriculum vitae]({% link cv.md %}) · [Download CV (PDF)]({{ '/cv/cv_andrea_2025.pdf' | relative_url }})
 
 ---
 
 ## Research
 
-My work is the expression of my mixed interest in particle physics phenomenology, mathematics, and numerical methods for strongly interacting systems. Here is a short list of topics I have covered in my latest works.
+My work uses analytic methods and numerical optimisation to address strongly coupled problems that are difficult to treat perturbatively.
 
-- S-matrix Bootstrap and non-perturbative constraints on QFT observables  
-- Applications to QCD, hadron spectroscopy, and collider physics  
-- Constraints on quantum gravity and UV completions of the Standard Model
-- Montecarlo for matrix models
+- **S-matrix bootstrap:** Bounds on scattering amplitudes and cross sections from analyticity, crossing, unitarity and dispersion relations.
+- **QCD and hadron physics:** Non-perturbative constraints on hadronic amplitudes, resonances and spectroscopy, including large-$N$ methods.
+- **Quantum gravity:** Scattering constraints and effective field theory, including higher-derivative interactions and inelasticity.
+- **Matrix models:** Bootstrap and numerical approaches to matrix quantum mechanics and large-$N$ systems.
 
-**Publications:**  
-[INSPIRE](https://inspirehep.net/authors/1275267?ui-citation-summary=true) · [Google Scholar](https://scholar.google.com/citations?hl=it&user=f8-gtH0AAAAJ)
+For a full publication list, see [INSPIRE](https://inspirehep.net/authors/1275267?ui-citation-summary=true) or [Google Scholar](https://scholar.google.com/citations?user=f8-gtH0AAAAJ).
 
----
+## Talks and scientific activities
 
-## Talks & Lectures
+Selected presentations and lecture material are available on the [Talks & Lectures]({% link talks.md %}) page.
 
-See the dedicated page:  
-👉 [Talks](talks.md)
-
----
-
-## Events & Programs
-👉 [Events & Programs](events.md)
-
----
+I co-organised **Bootstrap 2026** in London and the Aspen 2026 summer programme *From First Principles to Future Colliders: Amplitudes, Bootstraps & Energy Correlators*. See [Events & Programs]({% link events.md %}) for more information.
 
 ## Teaching
 
-At City St George's, University of London:
+**AS2052 — Calculus and Linear Algebra**, Bayes Business School, City St George's, University of London (2026–27).
 
-- **AS2052 – Calculus & Linear Algebra**, Bayes Business School  
+## Open questions
 
----
+Some research directions that interest me include the bootstrap of QCD scattering amplitudes, finite-energy bounds on total cross sections, gravitational scattering and inelasticity, and non-perturbative methods for matrix models.
 
-## Open Questions & Notes
-
-A (very incomplete) list of directions I find exciting today:
-
-- Bootstrap applications to QCD
-- Non-perturbative bounds on total cross sections for fermions  
-- Bootstrap Quantum Mechanics and Matrix Models 
-- Constraints on higher-derivative corrections to supergravity $D^4 R^4, D^6 R^4,\dots$ from unitarity  
-
-See: 👉 [Open Questions](open-questions.md)
-
----
+See [Open Questions & Notes]({% link open-questions.md %}).
 
 ## Contact
 
 Department of Mathematics  
 City St George's, University of London  
-
-Email: [andrea.guerrieri@city.ac.uk](mailto:andrea.guerrieri@city.ac.uk)
+Email: [andrea.guerrieri@city.ac.uk](mailto:andrea.guerrieri@city.ac.uk)  
+X: [@GuerrieriPhys](https://x.com/GuerrieriPhys)
