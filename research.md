@@ -5,7 +5,6 @@ eyebrow: 'Scattering amplitudes & the bootstrap'
 intro: 'I use general principles and numerical optimisation to study strong interactions, quantum gravity and the space of consistent quantum theories.'
 nav: research
 permalink: /research.html
-math: true
 ---
 
 ## Research directions
@@ -16,7 +15,7 @@ What can we learn about a quantum theory from the consistency of its scattering 
 
 ### QCD and hadrons
 
-I apply these methods to the strong interactions, connecting scattering data with fundamental constraints. My work includes pion amplitudes, hadronic resonances and glueball couplings, with both phenomenological and large-$N$ perspectives.
+I apply these methods to the strong interactions, connecting scattering data with fundamental constraints. My work includes pion amplitudes, hadronic resonances and glueball couplings, with both phenomenological and large-*N* perspectives.
 
 ### Quantum gravity
 
@@ -24,7 +23,7 @@ I study how scattering consistency constrains gravitational effective field theo
 
 ### Matrix models
 
-I also work on matrix quantum mechanics and large-$N$ systems, using bootstrap techniques and numerical methods to investigate non-perturbative physics. These models offer a setting in which analytic constraints and numerical calculations can inform one another.
+I also work on matrix quantum mechanics and large-*N* systems, using bootstrap techniques and numerical methods to investigate non-perturbative physics. These models offer a setting in which analytic constraints and numerical calculations can inform one another.
 
 <a id="selected-publications"></a>
 

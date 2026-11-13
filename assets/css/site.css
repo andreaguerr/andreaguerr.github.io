@@ -57,6 +57,9 @@ main:focus { outline: none; }
 .button-light:hover { background: #e7eee7; }
 .text-link, .paper-link { display: inline-flex; align-items: center; gap: 13px; width: fit-content; font-size: 13px; font-weight: 550; text-decoration: none; border-bottom: 1px solid #9caeaa; padding: 4px 0; }
 .text-link:hover, .paper-link:hover { border-color: var(--teal); }
+.arrow { display: inline-block; position: relative; width: 10px; height: 10px; flex: 0 0 10px; vertical-align: middle; }
+.arrow::before { content: ""; position: absolute; top: 0; right: 0; width: 7px; height: 7px; border-top: 1px solid currentColor; border-right: 1px solid currentColor; }
+.arrow::after { content: ""; position: absolute; top: 5px; left: -1px; width: 12px; height: 1px; background: currentColor; transform: rotate(-45deg); }
 .file-type { font: 600 9px/1.5 var(--sans); letter-spacing: .08em; border: 1px solid currentColor; padding: 1px 4px; border-radius: 2px; vertical-align: middle; }
 .hero-profiles { display: flex; flex-wrap: wrap; gap: 25px; margin-top: 27px; }
 .hero-profiles a { font-size: 11px; color: var(--muted); text-decoration: none; }
