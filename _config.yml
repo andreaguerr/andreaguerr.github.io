@@ -1,45 +1,49 @@
-title: "Andrea Guerrieri – Theoretical Physicist"
-description: "Lecturer and Royal Society University Research Fellow at City St George's, University of London. Research in S-matrix bootstrap, QCD, scattering amplitudes, and quantum gravity."
+title: "Andrea Guerrieri — Theoretical physicist"
+description: "Lecturer and Royal Society University Research Fellow at City St George’s, University of London. Research in the S-matrix bootstrap, strong interactions and quantum gravity."
 author: "Andrea Guerrieri"
-
+email: "andrea.guerrieri@citystgeorges.ac.uk"
 lang: en
+url: "https://andreaguerr.github.io"
+baseurl: ""
+design_version: "2026-11-12"
 
 social:
   name: "Andrea Guerrieri"
   links:
-    - "https://andreaguerr.github.io"
     - "https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri"
     - "https://inspirehep.net/authors/1275267"
     - "https://scholar.google.com/citations?user=f8-gtH0AAAAJ"
     - "https://www.linkedin.com/in/andrea-guerrieri-03a1678a"
     - "https://x.com/GuerrieriPhys"
-
+    - "https://github.com/andreaguerr"
 
 theme: jekyll-theme-minimal
+logo: /assets/images/andrea-guerrieri.webp
+github_username: andreaguerr
+plugins:
+  - jekyll-sitemap
 
-logo: /assets/images/foto_city.jpeg
-
-# Where the site actually lives
-url: "https://andreaguerr.github.io"
-baseurl: ""   # keep empty for a user site like username.github.io
-
-# Markdown & math configuration
 markdown: kramdown
 kramdown:
-  input: GFM            # GitHub-Flavored Markdown (tables, fenced code blocks, etc.)
-  math_engine: mathjax  # enable MathJax processing
-  parse_block_html: true
+  input: GFM
+  math_engine: mathjax
+  parse_block_html: false
   hard_wrap: false
   syntax_highlighter: rouge
-
 highlighter: rouge
 
-# Optional metadata GitHub can use in places
-github_username: andreaguerr
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
 
-# Files that should not be part of the generated site
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
+  - node_modules
+  - scripts
+  - package.json
+  - package-lock.json
