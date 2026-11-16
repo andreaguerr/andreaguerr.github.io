@@ -8,9 +8,20 @@ description: "Andrea Guerrieri, Lecturer and Royal Society University Research F
 <div class="container">
   <section class="hero" aria-labelledby="hero-title">
     <div class="hero-copy">
-      <p class="eyebrow">Theoretical physics · London</p>
-      <h1 id="hero-title">Andrea Guerrieri</h1>
-      <p class="hero-role">Lecturer &amp; Royal Society University Research Fellow<br><a href="https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri">City St George’s, University of London</a></p>
+      <div class="hero-identity">
+        <div class="hero-heading">
+          <p class="eyebrow">Theoretical physics · London</p>
+          <h1 id="hero-title">Andrea Guerrieri</h1>
+          <p class="hero-role">Lecturer &amp; Royal Society University Research Fellow<br><a href="https://www.citystgeorges.ac.uk/about/people/academics/andrea-guerrieri">City St George’s, University of London</a></p>
+        </div>
+        <figure class="hero-portrait">
+          <picture>
+            <source srcset="{{ '/assets/images/andrea-guerrieri.webp' | relative_url }}" type="image/webp">
+            <img src="{{ '/assets/images/foto_city.jpeg' | relative_url }}" alt="Andrea Guerrieri" width="6000" height="4000" fetchpriority="high">
+          </picture>
+          <figcaption>Department of Mathematics<br>City St George’s, University of London</figcaption>
+        </figure>
+      </div>
       <p class="hero-statement">Exploring strong interactions and quantum gravity through the <em>S-matrix bootstrap.</em></p>
       <p class="hero-description">I study what fundamental principles — unitarity, analyticity and crossing symmetry — can tell us about quantum field theories and gravitational scattering.</p>
       <div class="actions">
@@ -23,13 +34,6 @@ description: "Andrea Guerrieri, Lecturer and Royal Society University Research F
         <a href="https://x.com/GuerrieriPhys">@GuerrieriPhys <span class="arrow" aria-hidden="true"></span></a>
       </div>
     </div>
-    <figure class="hero-portrait">
-      <picture>
-        <source srcset="{{ '/assets/images/andrea-guerrieri.webp' | relative_url }}" type="image/webp">
-        <img src="{{ '/assets/images/foto_city.jpeg' | relative_url }}" alt="Andrea Guerrieri" width="6000" height="4000" fetchpriority="high">
-      </picture>
-      <figcaption><span class="portrait-rule" aria-hidden="true"></span>Department of Mathematics<br>City St George’s, University of London</figcaption>
-    </figure>
   </section>
 
   <section class="research-section section" id="research" aria-labelledby="research-title">

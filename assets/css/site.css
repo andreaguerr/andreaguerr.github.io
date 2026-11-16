@@ -41,8 +41,10 @@ main:focus { outline: none; }
 .site-nav a:hover, .site-nav a[aria-current] { color: var(--teal); }
 .site-nav a:hover::after, .site-nav a[aria-current]::after { transform: scaleX(1); }
 .menu-toggle { display: none; }
-.hero { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(0, .85fr); align-items: start; gap: 76px; padding: 82px 0 80px; }
-.hero h1 { margin: 0 0 20px; white-space: nowrap; font-size: clamp(44px, 5vw, 66px); }
+.hero { padding: 64px 0; }
+.hero-identity { display: flex; align-items: center; gap: 32px; }
+.hero-heading { min-width: 0; }
+.hero h1 { margin: 0 0 20px; font-size: clamp(44px, 5vw, 66px); }
 .hero-role { font-size: 13px; line-height: 1.8; color: var(--muted); }
 .hero-role a { color: inherit; text-decoration: none; }
 .hero-role a:hover { text-decoration: underline; }
@@ -65,11 +67,10 @@ main:focus { outline: none; }
 .hero-profiles a { font-size: 11px; color: var(--muted); text-decoration: none; }
 .hero-profiles a:hover { color: var(--teal); text-decoration: underline; }
 .hero-profiles span { margin-left: 4px; }
-.hero-portrait { padding-top: 4px; }
-.hero-portrait picture { position: relative; display: block; padding: 10px; border: 1px solid #cdd3ca; background: #f0f1eb; }
-.hero-portrait img { width: 100%; height: auto; aspect-ratio: .85; object-fit: cover; object-position: center 43%; }
-.hero-portrait figcaption { position: relative; padding: 18px 0 0 27px; color: var(--muted); font-size: 10px; line-height: 1.8; }
-.portrait-rule { position: absolute; top: 26px; left: 0; width: 16px; height: 1px; background: var(--accent); }
+.hero-portrait { width: 128px; flex: 0 0 128px; }
+.hero-portrait picture { display: block; padding: 4px; border: 1px solid #cdd3ca; background: #f0f1eb; }
+.hero-portrait img { width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; object-position: center 30%; }
+.hero-portrait figcaption { padding-top: 10px; color: var(--muted); font-size: 9px; line-height: 1.6; }
 .section { padding: 59px 0 70px; border-top: 1px solid var(--line); }
 .section-heading { display: flex; align-items: flex-end; justify-content: space-between; gap: 32px; margin-bottom: 36px; }
 .section-heading .eyebrow { margin-bottom: 12px; }
@@ -151,7 +152,6 @@ main:focus { outline: none; }
 .prose .button { margin: 0 0 8px; }
 @media (max-width: 1190px) {
   .site-nav { gap: 21px; }
-  .hero { gap: 50px; }
   .hero h1 { font-size: 55px; }
   .research-item { grid-template-columns: 140px 1fr 88px; gap: 24px; }
   .project-panel { padding: 42px; gap: 30px; }
@@ -165,12 +165,12 @@ main:focus { outline: none; }
   .menu-icon::after { content: ''; position: absolute; top: 5px; left: 0; width: 19px; height: 1px; background: currentColor; }
   .js .site-nav { display: none; }
   .js .site-nav.is-open { display: flex; }
-  .hero { grid-template-columns: minmax(0, 1.5fr) minmax(0, .85fr); gap: 38px; padding: 64px 0; }
+  .hero { padding: 52px 0; }
+  .hero-identity { gap: 28px; }
   .hero h1 { font-size: 47px; letter-spacing: -.04em; }
   .hero-statement { font-size: 27px; margin-top: 24px; }
   .hero-role { font-size: 12px; }
   .hero-description { font-size: 14px; }
-  .hero-portrait { padding-top: 35px; }
   .hero-profiles { gap: 18px; }
   .research-item { grid-template-columns: 125px 1fr; }
   .research-item .paper-link { grid-column: 2; margin-top: -12px; }
@@ -189,7 +189,8 @@ main:focus { outline: none; }
   .site-nav { padding-top: 6px; gap: 2px 25px; }
   .site-nav a { padding: 10px 0; font-size: 13px; }
   .eyebrow { font-size: 10px; letter-spacing: .13em; }
-  .hero { grid-template-columns: 1fr; gap: 34px; padding: 43px 0 47px; }
+  .hero { padding: 32px 0 43px; }
+  .hero-identity { flex-direction: column; align-items: start; gap: 22px; }
   .hero h1 { font-size: clamp(39px, 9.6vw, 62px); white-space: normal; letter-spacing: -.035em; margin-bottom: 18px; }
   .hero-role { max-width: 400px; font-size: 12px; }
   .hero-statement { margin-top: 25px; font-size: 28px; line-height: 1.4; }
@@ -198,11 +199,9 @@ main:focus { outline: none; }
   .button { min-height: 46px; padding: 11px 16px; gap: 18px; font-size: 12px; }
   .text-link { font-size: 12px; }
   .hero-profiles { margin-top: 24px; gap: 22px; }
-  .hero-portrait { width: 100%; padding: 0; display: grid; grid-template-columns: minmax(130px, .9fr) minmax(120px, 1fr); align-items: center; gap: 24px; }
-  .hero-portrait picture { padding: 6px; }
-  .hero-portrait img { aspect-ratio: 1; object-position: center 30%; }
-  .hero-portrait figcaption { padding: 24px 0 0; max-width: 165px; font-size: 10px; }
-  .portrait-rule { top: 10px; }
+  .hero-portrait { order: -1; width: auto; max-width: 100%; flex: none; display: flex; align-items: center; gap: 16px; }
+  .hero-portrait picture { width: 80px; flex: 0 0 80px; padding: 3px; }
+  .hero-portrait figcaption { padding: 0; max-width: 195px; font-size: 10px; }
   .section { padding: 39px 0 45px; }
   .section-heading { display: block; margin-bottom: 27px; }
   .section-heading h2 { font-size: 32px; }
@@ -264,7 +263,7 @@ main:focus { outline: none; }
   body { background: white; color: black; font-size: 11pt; }
   .container { width: 100%; }
   .site-header, .menu-toggle, .skip-link, .zoo-visual, .hero-profiles, .footer-links { display: none; }
-  .hero { padding: 0 0 24px; gap: 24px; }
+  .hero { padding: 0 0 24px; }
   .hero h1 { font-size: 34pt; }
   .hero-statement { font-size: 18pt; }
   .page-shell { padding: 0; }
